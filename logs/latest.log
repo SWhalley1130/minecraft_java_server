@@ -1,0 +1,58 @@
+[13:20:41] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[13:20:46] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:20:46] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:20:46] [ServerMain/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:20:46] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:20:46] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:20:47] [Worker-Main-12/INFO]: Loaded 7 recipes
+[13:20:48] [Worker-Main-12/INFO]: Loaded 1141 advancements
+[13:20:51] [Server thread/INFO]: Starting minecraft server version 1.18.2
+[13:20:51] [Server thread/INFO]: Loading properties
+[13:20:51] [Server thread/INFO]: Default game type: SURVIVAL
+[13:20:51] [Server thread/INFO]: Generating keypair
+[13:20:52] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:20:52] [Server thread/INFO]: Using epoll channel type
+[13:20:53] [Server thread/INFO]: Preparing level "world"
+[13:20:53] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:20:56] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[13:20:56] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[13:20:56] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[13:20:56] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[13:20:56] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[13:20:56] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[13:20:56] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[13:20:56] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[13:20:57] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[13:20:57] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[13:20:58] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[13:20:58] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[13:20:59] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[13:20:59] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[13:21:00] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[13:21:00] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[13:21:01] [Worker-Main-13/INFO]: Preparing spawn area: 2%
+[13:21:01] [Worker-Main-14/INFO]: Preparing spawn area: 4%
+[13:21:02] [Worker-Main-13/INFO]: Preparing spawn area: 4%
+[13:21:02] [Worker-Main-13/INFO]: Preparing spawn area: 4%
+[13:21:03] [Worker-Main-10/INFO]: Preparing spawn area: 4%
+[13:21:03] [Worker-Main-11/INFO]: Preparing spawn area: 4%
+[13:21:04] [Worker-Main-8/INFO]: Preparing spawn area: 4%
+[13:21:04] [Worker-Main-13/INFO]: Preparing spawn area: 6%
+[13:21:05] [Worker-Main-9/INFO]: Preparing spawn area: 9%
+[13:21:05] [Worker-Main-11/INFO]: Preparing spawn area: 14%
+[13:21:06] [Worker-Main-9/INFO]: Preparing spawn area: 27%
+[13:21:06] [Worker-Main-11/INFO]: Preparing spawn area: 42%
+[13:21:07] [Worker-Main-9/INFO]: Preparing spawn area: 75%
+[13:21:08] [Worker-Main-8/INFO]: Preparing spawn area: 75%
+[13:21:10] [Worker-Main-10/INFO]: Preparing spawn area: 80%
+[13:21:10] [Worker-Main-10/INFO]: Preparing spawn area: 80%
+[13:21:10] [Worker-Main-10/INFO]: Preparing spawn area: 80%
+[13:21:10] [Worker-Main-10/INFO]: Preparing spawn area: 80%
+[13:21:10] [Server thread/INFO]: Time elapsed: 16660 ms
+[13:21:10] [Server thread/INFO]: Done (17.079s)! For help, type "help"
+[13:27:25] [User Authenticator #1/INFO]: UUID of player Ginger_Snaps7 is 8b2b3654-feb0-4f09-8e24-c3ef8338306e
+[13:27:25] [Server thread/INFO]: Ginger_Snaps7[/172.22.16.1:49651] logged in with entity id 105 at (-220.5, 69.0, -89.5)
+[13:27:25] [Server thread/INFO]: Ginger_Snaps7 joined the game
+[13:27:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2160ms or 43 ticks behind
+[13:27:43] [Server thread/INFO]: Ginger_Snaps7 lost connection: Disconnected
+[13:27:43] [Server thread/INFO]: Ginger_Snaps7 left the game

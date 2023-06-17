@@ -1,0 +1,9 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:jungle": "2023-06-16 13:27:26 -0600"
+    },
+    "done": false
+  },
+  "DataVersion": 2975
+}
